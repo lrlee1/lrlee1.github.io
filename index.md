@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lori Lee's Portfolio
 
 You can use the [editor on GitHub](https://github.com/lrlee1/lrlee1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
